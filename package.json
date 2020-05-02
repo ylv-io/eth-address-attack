@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "comlink": "^4.3.0",
+    "ethereumjs-util": "^7.0.0",
+    "keccak": "^3.0.0",
+    "randombytes": "^2.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "secp256k1": "^4.0.1",
+    "worker-loader": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
